@@ -1,0 +1,7 @@
+Flask
+pyclamd
+python-pptx
+PyPDF2
+olefile
+Pillow
+python-docx
